@@ -14,7 +14,8 @@ This repository is associated with the article:
 - [`corpus_metadata.xlsx`](corpus_metadata.xlsx) — Convenient version of the corpus metadata for human browsing.
 - [`metadata_dictionary.md`](metadata_dictionary.md) — Definitions of the columns used in the metadata and, where relevant, their predefined values.
 - [`preprocess.py`](preprocess.py) — Code for preprocessing the associated texts, including the correction of OCR-related errors, management of spacing and punctuation, and removal of metatextual information.
-
+- [`align.py`](align.py) — Code for the alignment of excerpts of paired full and adapted texts. 
+- 
 ## Access and collaboration
 
 Unfortunately, due to copyright restrictions, we are unable to share the full corpus publicly. If you are interested in further information or would like to discuss a potential collaboration, please contact us at [iglika.nikolova.stoupak@gmail.com](mailto:iglika.nikolova.stoupak@gmail.com).
