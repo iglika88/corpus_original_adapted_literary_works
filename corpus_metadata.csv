@@ -1,0 +1,377 @@
+id,lang,title_en,title_lang,version,adp_aud,adp_subaud,author_org,author_here,genre_org,year_org,year_here,publisher,diff_lang,adp_is_transl,nb_tokens
+001,en,The Adventures of Pinocchio,The Adventures of Pinocchio,original,---,---,Carlo Collodi,Carol Della Chiesa,novel,1883,1925,The Macmillan Company,yes,---,40.48
+002,en,The Adventures of Pinocchio,Pinocchio,adapted,children,---,Carlo Collodi,---,---,1883,2022,Think Digital Academy,yes,no,2.32
+003,en,The Adventures of Pinocchio,Pinocchio,adapted,children,---,Carlo Collodi,Bharathi Dhanasekar,---,1883,2020,Short Stories for Kids,yes,no,0.67
+004,en,The Adventures of Pinocchio,The Adventures of Pinocchio,adapted,FL,A1,Carlo Collodi,Joanne Swan,---,1883,2004,New Editions English Language Teaching,yes,no,1.14
+005,en,The Adventures of Pinocchio,Pinocchio,adapted,FL,A1,Carlo Collodi,Gill Munton,---,1883,2010,Macmillan: English Explorers,yes,no,6.46
+006,en,The Adventures of Pinocchio,Pinocchio,adapted,FL,A1,Carlo Collodi,Sue Arengo,---,1883,2009,Oxford UP: Family and Friends,yes,no,2.75
+007,en,The Adventures of Pinocchio,The Adventures of Pinocchio,adapted,LD,---,Carlo Collodi,Gemma Barder,---,1883,2024,Every Cherry Publishing,yes,no,3.54
+008,en,The Adventures of Tom Sawyer,The Adventures of Tom Sawyer,original,---,---,Mark Twain,---,novel,1876,---,American Publishing Company,no,---,73.02
+009,en,The Adventures of Tom Sawyer,The Adventures of Tom Sawyer,adapted,FL,---,Mark Twain,---,---,1876,2006,Global Publishing Solutions,no,no,27.68
+010,en,The Adventures of Tom Sawyer,The Adventures of Tom Sawyer,adapted,FL,A1,Mark Twain,Jacqueline Kehl,---,1876,2000,Pearson: Penguin Readers,no,no,4.28
+011,en,The Adventures of Tom Sawyer,The Adventures of Tom Sawyer,adapted,FL,A1,Mark Twain,Paul Fisher Johnson,---,1876,1998,Oxford UP: Oxford Bookworms,no,no,6.31
+012,en,Alice's Adventures in Wonderland,Alice's Adventures in Wonderland,original,---,---,Lewis Carroll,---,novel,1865,---,Macmillan and Co.,no,---,27.29
+013,en,Alice's Adventures in Wonderland,The Nursery ``Alice'',adapted,children,0,Lewis Carroll,Lewis Carroll,---,1865,1890,Macmillan and Co.,no,no,7.14
+014,en,Alice's Adventures in Wonderland,Alice's Adventures in Wonderland,adapted,FL,B1,Lewis Carroll,Jennifer Bassett,---,1865,2000,Oxford UP: Oxford Bookworms,no,no,7.24
+015,en,Alice's Adventures in Wonderland,Alice's Adventures in Wonderland,adapted,LD,---,Lewis Carroll,Gemma Barder,---,1865,2024,Every Cherry Publishing,no,no,5.29
+016,en,Anna Karenina,Anna Karenina,original,---,---,Leo Tolstoy,Constance Garnett,novel,1878,1901,William Heinemann,yes,---,358.38
+017,en,Anna Karenina,Anna Karenina,adapted,FL,C1,Leo Tolstoy,Anne Collins,---,1878,2000,Pearson: Penguin Readers,yes,no,34.05
+018,en,A Christmas Carol,A Christmas Carol,original,---,---,Charles Dickens,---,novel,1843,---,Chapman and Hall,no,---,29.21
+019,en,A Christmas Carol,A Christmas Carol,adapted,FL,A1,Charles Dickens,Margaret Naudi,---,1843,1987,Bordas: Easy English Stories,no,no,2.96
+020,en,Cinderella,Cinderella,original,---,---,Charles Perrault,---,fairy tale,1697,---,Charles Scribner's Sons,yes,---,2.43
+021,en,Cinderella,Cinderella,adapted,children,---,Charles Perrault,Charles Welsh,---,1697,1901,D. C. Heath & Co.,yes,no,0.58
+022,en,Crime and Punishment,Crime and Punishment,original,---,---,Fyodor Dostoevsky,Constance Garnett,novel,1867,1914,William Heinemann,yes,---,207.87
+023,en,Crime and Punishment,Crime and Punishment,adapted,FL,A1,Fyodor Dostoevsky,Nancy Taylor,---,1867,2006,Pearson: Penguin Readers,yes,no,33.42
+024,en,Don Quixote,The Ingenious Gentleman Don Quixote of La Mancha,original,---,---,Miguel de Cervantes,John Ormsby,novel,1615,1885,"Smith, Elder & Co.",yes,---,409.02
+025,en,Don Quixote,The Adventures of Don Quixote de la Mancha,adapted,children,---,Miguel de Cervantes,M. Jones,---,1615,1895,George Routledge and Sons,yes,no,146.36
+026,en,Don Quixote,The Adventures of Don Quixote de la Mancha,adapted,children,---,Miguel de Cervantes,Emily Underdown,---,1615,1910,Thomas Nelson and Sons,yes,no,23.57
+027,en,Don Quixote,Adventures of Don Quixote,adapted,children,---,Miguel de Cervantes,Argentina Palacios,---,1615,1999,Dover Publications,yes,no,15.10
+028,en,Frankenstein,Frankenstein,original,---,---,Mary Shelley,---,novel,1818,---,---,no,---,75.32
+029,en,Frankenstein,Frankenstein,adapted,FL,B2,Mary Shelley,Maud Jackson,---,1818,2003,CIDEB / Black Cat,no,no,13.06
+030,en,The Great Gatsby,The Great Gatsby,original,---,---,F. Scott Fitzgerald,---,novel,1925,---,Charles Scribner's Sons,no,---,49.86
+031,en,The Great Gatsby,The Great Gatsby,adapted,FL,C1,F. Scott Fitzgerald,Richard Larkham,---,1925,2011,ELI s.r.l.,no,no,22.38
+032,en,Gulliver's Travels,Travels into Several Remote Nations of the World,original,---,---,Jonathan Swift,---,novel,1726,---,Benjamin Motte,no,---,105.05
+033,en,Gulliver's Travels,Gulliver's Travels: Adapted for the Young,adapted,children,---,Jonathan Swift,---,---,1726,1895,George Routledge and Sons,no,no,102.36
+034,en,The Hound of the Baskervilles,The Hound of the Baskervilles,original,---,---,Arthur Conan Doyle,---,novel,1902,---,George Newnes,no,---,59.88
+035,en,The Hound of the Baskervilles,The Hound of the Baskervilles,adapted,FL,B1,Arthur Conan Doyle,Jeremy Fitzgerald,---,1902,2004,CIDEB / Black Cat,no,no,9.66
+036,en,The Hound of the Baskervilles,The Hound of the Baskervilles,adapted,FL,B1,Arthur Conan Doyle,Patrick Nobes,---,1902,1989,Oxford UP: Oxford Bookworms,no,no,20.29
+037,en,Jack and the Bean-Stalk,The History of Jack and the Bean-Stalk,original,---,---,---,---,fairy tale,1807,---,B. Tabart,no,---,4.69
+038,en,Jack and the Bean-Stalk,Denslow's Jack and the Bean-Stalk,adapted,children,---,---,William Wallace Denslow,---,1807,1903,G. W. Dillingham Company,no,no,1.96
+039,en,The Legends of King Arthur and His Knights,The Legends of King Arthur and His Knights,original,---,---,James Thomas Knowles,---,collection of tales,1862,---,Griffith and Farran,no,---,96.16
+040,en,The Legends of King Arthur and His Knights,The Legend of King Arthur,adapted,FL,A1,James Thomas Knowles,Annie Sussel,---,1862,2023,Harrap's,no,no,0.34
+041,en,Les Misérables,Les Misérables,original,---,---,Victor Hugo,Isabel Florence Hapgood,novel,1862,1887,Thomas Y. Crowell & Co.,yes,---,566.89
+042,en,Les Misérables,Les Misérables,adapted,FL,C1,Victor Hugo,Chris Rice,---,1862,2002,Pearson: Penguin Readers,yes,no,31.37
+043,en,Les Misérables,Les Misérables,adapted,theatre,---,Victor Hugo,Trevor Nunn; John Caird,---,1862,1985,Cameron Mackintosh,yes,no,16.30
+044,en,The Little Match Girl,The Little Match Girl,original,---,---,Hans Christian Andersen,Charles Beckwith,fairy tale,1845,1847,Bentley's Miscellany,yes,---,1.03
+045,en,The Little Match Girl,The Little Match Girl,adapted,children,---,Hans Christian Andersen,Bharathi Dhanasekar,---,1845,2018,ShortStories4Kids.com,yes,no,0.70
+046,en,Little Red Riding Hood,Little Red-Cap,original,---,---,Brothers Grimm,Margaret Hunt,fairy tale,1812,1884,George Bell and Sons,yes,---,1.43
+047,en,Little Red Riding Hood,Little Red Riding Hood,adapted,children,6,Brothers Grimm,---,---,1812,2021,Twinkl,yes,no,0.26
+048,en,Little Red Riding Hood,The Story of Little Red Riding Hood,adapted,children,---,Brothers Grimm,Clare Bevan,---,1812,2008,Scholastic,yes,no,0.65
+049,en,Little Red Riding Hood,Little Red Riding Hood,adapted,children,---,Brothers Grimm,---,---,1812,---,Leanne Guenther,yes,no,0.74
+050,en,Little Red Riding Hood,Twist the Text: The Little Red Riding Hood Collection,adapted,children,---,Brothers Grimm,---,---,1812,2018,Twinkl,yes,no,2.07
+051,en,Little Red Riding Hood,The Little Red Riding Hood,adapted,children,---,Brothers Grimm,Belinda Gallagher,---,1812,2014,Miles Kelly Publishing,yes,no,0.56
+052,en,Little Red Riding Hood,Denslow's Little Red Riding-Hood,adapted,children,---,Brothers Grimm,William Wallace Denslow,---,1812,1903,G. W. Dillingham Company,yes,no,1.20
+053,en,Little Red Riding Hood,Little Red Riding Hood,adapted,FL,A1,Brothers Grimm,---,---,1812,2012,British Council: LearnEnglish Kids,yes,no,0.21
+054,en,Little Red Riding Hood,Little Red Riding Hood and Lucille,adapted,LD,---,Brothers Grimm,Bridget Carruolo,---,1812,2016,Mascot Books,yes,no,1.43
+055,en,Little Women,Little Women,original,---,---,Louisa May Alcott,---,novel,1869,---,Roberts Brothers,no,---,190.92
+056,en,Little Women,Little Women,adapted,FL,A2,Louisa May Alcott,D. H. Howe,---,1869,1992,Oxford UP: Oxford Progressive English Readers,no,no,13.42
+057,en,Madame Bovary,Madame Bovary,original,---,---,Gustave Flaubert,Eleanor Marx-Aveling,novel,1857,1886,Vizetelly & Co.,yes,---,117.46
+058,en,Madame Bovary,Madame Bovary,adapted,FL,C1,Gustave Flaubert,Christopher Tribble,---,1857,2001,Pearson: Penguin Readers,yes,no,33.62
+059,en,The Merry Adventures of Robin Hood,The Merry Adventures of Robin Hood,original,---,---,Howard Pyle,---,novel,1883,---,Charles Scribner's Sons,no,---,111.33
+060,en,The Merry Adventures of Robin Hood,Robin Hood: The Silver Arrow and the Slaves,adapted,FL,A2,Howard Pyle,Lynda Edwards,---,1883,2008,Scholastic,no,no,6.98
+061,en,The Merry Adventures of Robin Hood,The Legend of Robin Hood,adapted,FL,A1,Howard Pyle,Annie Sussel,---,1883,2023,Harrap's,no,no,0.12
+062,en,The Merry Adventures of Robin Hood,The Legend of Robin Hood,adapted,FL,A1,Howard Pyle,John Escott,---,1883,2021,Oxford UP: Oxford Bookworms,no,no,1.47
+063,en,Moby Dick,"Moby-Dick; or, The Whale",original,---,---,Herman Melville,---,novel,1851,---,Harper & Brothers,no,---,214.15
+064,en,Moby Dick,Moby Dick,adapted,FL,B1,Herman Melville,Graham Read,---,1851,2004,Mediasat Poland Bis sp. z o.o.,no,no,8.68
+065,en,Moby Dick,Moby Dick,adapted,FL,A2,Herman Melville,Kathy Burke,---,1851,2006,Pearson: Penguin Readers,no,no,15.17
+066,en,Moby Dick,Moby Dick,adapted,FL,B2,Herman Melville,Fiona Mackenzie,---,1851,2020,Penguin Books: Penguin Readers,no,no,2.54
+067,en,The Odyssey,The Odyssey,original,---,---,Homer,Ian Johnston,epic poem,c. 730 BC,2007,Richer Resources Publications,yes,---,144.28
+068,en,The Odyssey,Odyssey Abridged,adapted,general,---,Homer,Ian Johnston,---,c. 730 BC,2008,Richer Resources Publications,yes,no,54.20
+069,en,Oliver Twist,Oliver Twist,original,---,---,Charles Dickens,---,novel,1838,---,Richard Bentley,no,---,161.13
+070,en,Oliver Twist,Oliver Twist,adapted,children,7,Charles Dickens,Gill Tavner,---,1838,2007,Real Reads Ltd,no,no,3.75
+071,en,Oliver Twist,Oliver Twist,adapted,children,7,Charles Dickens,Mary Sebag-Montefiore,---,1838,2006,Usborne Publishing: Usborne Young Reading,no,no,4.19
+072,en,Oliver Twist,Oliver Twist,adapted,FL,C1,Charles Dickens,Latif Doss,---,1838,1999,Pearson: Penguin Readers,no,no,35.40
+073,en,Oliver Twist,Oliver Twist,adapted,FL,B2,Charles Dickens,Richard Rogers,---,1838,1992,Oxford UP: Oxford Bookworms,no,no,27.52
+074,en,The Picture of Dorian Gray,The Picture of Dorian Gray,original,---,---,Oscar Wilde,---,novel,1891,---,"Ward, Lock and Co.",no,---,80.00
+075,en,The Picture of Dorian Gray,The Picture of Dorian Gray,adapted,FL,B2,Oscar Wilde,L. A. Hill,---,1891,1994,Oxford UP: Oxford Progressive English Readers,no,no,32.91
+076,en,The Picture of Dorian Gray,The Picture of Dorian Gray,adapted,FL,B1,Oscar Wilde,Victoria Heward,---,1891,2020,CIDEB / Black Cat,no,no,11.50
+077,en,Robinson Crusoe,Robinson Crusoe,original,---,---,Daniel Defoe,---,novel,1719,---,W. Taylor,no,---,121.62
+078,en,Robinson Crusoe,The Young Folks' Robinson Crusoe,adapted,children,---,Daniel Defoe,Eliza Ware Farrar,---,1719,1830,Lee and Shepard,no,no,26.31
+079,en,Romeo and Juliet,The Tragedy of Romeo and Juliet,original,---,---,William Shakespeare,---,play,1597,---,Project Gutenberg,no,---,26.17
+080,en,Romeo and Juliet,Romeo and Juliet,adapted,general,---,William Shakespeare,Jane Tanner,---,1597,2009,Wichita Shakespeare Company,no,no,13.74
+081,en,Romeo and Juliet,Romeo and Juliet,adapted,children,---,William Shakespeare,Martin Lamb; Penelope Middelboe,---,1597,---,Shakespeare Schools Festival,no,no,5.74
+082,en,Romeo and Juliet,Romeo and Juliet,adapted,children,---,William Shakespeare,John Crowther,---,1597,2003,Spark Publishing,no,no,58.21
+083,en,Romeo and Juliet,Romeo and Juliet,adapted,children,4,William Shakespeare,Maddie Heyes,---,1597,2016,Eleanor Palmer Primary School,no,no,3.57
+084,en,The Ugly Duckling,The Ugly Duckling,original,---,---,Hans Christian Andersen,H. B. Paull,fairy tale,1843,1917,Constable & Co.,yes,---,3.80
+085,en,The Ugly Duckling,The Ugly Duckling,original,---,---,Hans Christian Andersen,Hamilton Wright Mabie (ed.),fairy tale,1843,1905,"Doubleday, Page & Company",yes,---,3.76
+086,en,The Ugly Duckling,The Ugly Duckling,adapted,children,3,Hans Christian Andersen,Lynne Bradbury,---,1843,1979,Ladybird Books Ltd.,yes,no,0.75
+087,en,The Ugly Duckling,The Ugly Duckling,adapted,children,---,Hans Christian Andersen,---,---,1843,2002,Parragon Publishing: 1000 Stories and Rhymes,yes,no,0.91
+088,en,The Ugly Duckling,The Ugly Duckling,adapted,children,6,Hans Christian Andersen,Maryann Dobeck,---,1843,2009,Heinemann,yes,no,0.99
+089,en,The Ugly Duckling,The Ugly Duckling,adapted,FL,A2,Hans Christian Andersen,Melvyn Hayes,---,1843,2017,British Council: LearnEnglish Kids,yes,no,0.23
+090,en,Wuthering Heights,Wuthering Heights,original,---,---,Emily Brontë,---,novel,1847,---,Thomas Cautley Newby,no,---,119.18
+091,en,Wuthering Heights,Wuthering Heights,adapted,FL,B2,Emily Brontë,Elizabeth Ferretti,---,1847,2011,ELI s.r.l.,no,no,25.88
+092,bg,The Adventures of Pinocchio,Пинокио,original,---,---,Carlo Collodi,Petar Dragoev,novel,1883,1950,Sofi-R,yes,---,36.75
+093,bg,The Adventures of Pinocchio,Пинокио,adapted,children,4,Carlo Collodi,---,---,1883,2011,PAN: Moyata Parva Prikazka,yes,no,0.93
+094,bg,The Adventures of Pinocchio,Пинокио,adapted,children,---,Carlo Collodi,Rumyana Saraydarova-Parvanova,---,1883,2023,Hermes,yes,yes,19.74
+095,bg,Alice's Adventures in Wonderland,Алиса в страната на чудесата,original,---,---,Lewis Carroll,Lazar Goldman,novel,1865,1996,PAN: Vechnite Detski Romani,yes,---,22.23
+096,bg,Alice's Adventures in Wonderland,Алиса в страната на чудесата,adapted,children,4,Lewis Carroll,---,---,1865,2015,PAN: Moyata Parva Prikazka,yes,no,1.04
+097,bg,Beauty and the Beast,Красавицата и звярът,original,---,---,Gabrielle-Suzanne de Villeneuve,Vassil Velchev,fairy tale,1740,2009,Reader's Digest Sofia,yes,---,0.94
+098,bg,Beauty and the Beast,Красавицата и звярът,adapted,children,0,Gabrielle-Suzanne de Villeneuve,Hristina Yotova,---,1740,2015,SoftPress: Prikazki za Nai-malkite,yes,yes,0.81
+099,bg,Gulliver's Travels,Пътешествията на Гъливер,original,---,---,Jonathan Swift,Boyan Atanassov; Teodora Atanassova,novel,1726,1977,Narodna Kultura,yes,---,96.31
+100,bg,Gulliver's Travels,Пътешествията на Гъливер,adapted,children,7,Jonathan Swift,Tolya Radeva,---,1726,2023,Miranda,yes,yes,32.50
+101,bg,The Little Match Girl,Малката кибритопродавачка,original,---,---,Hans Christian Andersen,---,fairy tale,1845,2015,Roditel.bg,yes,---,0.82
+102,bg,The Little Match Girl,Малката кибритопродавачка,adapted,children,---,Hans Christian Andersen,Vassil Velchev,---,1845,2009,Reader's Digest,yes,no,0.47
+103,bg,Little Red Riding Hood,Червената шапчица,original,---,---,Charles Perrault,Zefira Katskova,fairy tale,1697,1974,Narodna Mladezh,yes,---,0.76
+104,bg,Little Red Riding Hood,Червената шапчица,adapted,children,4,Charles Perrault,Stefan Nedkov,---,1697,2020,InfoDar,yes,yes,0.94
+105,bg,The Odyssey,Одисея,original,---,---,Homer,Georgi Batakliev,epic poem,c. 730 BC,1971,Narodna Kultura,yes,---,105.03
+106,bg,The Odyssey,Одисея,adapted,children,7,Homer,Tolya Radeva,---,c. 730 BC,2022,Miranda: Zlatni Mitove,yes,yes,27.67
+107,bg,Peter Pan,Питър Пан,original,---,---,J. M. Barrie,Boyan Atanassov; Teodora Atanassova,novel,1911,1981,Otechestvo: Smehurko,yes,---,46.67
+108,bg,Peter Pan,Питър Пан,adapted,children,6,J. M. Barrie,A. A. Klimov,---,1911,2013,Koala Press,yes,no,27.28
+109,bg,Peter Pan,Питър Пан,adapted,children,4,J. M. Barrie,---,---,1911,2021,PAN: Moyata Parva Prikazka,yes,no,1.00
+110,bg,The Ugly Duckling,Грозното патенце,original,---,---,Hans Christian Andersen,Svetoslav Minkov,fairy tale,1843,1976,Balkan,yes,---,3.24
+111,bg,The Ugly Duckling,Грозното патенце,adapted,children,---,Hans Christian Andersen,Stefan Nedkov,---,1843,2020,Book Travel,yes,yes,3.38
+112,bg,The Wonderful Wizard of Oz,Вълшебникът от Оз,original,---,---,L. Frank Baum,Anna Kamenova,novel,1900,2006,Trud: Zlatni Detski Knigi,yes,---,32.76
+113,bg,The Wonderful Wizard of Oz,Вълшебникът от Оз,adapted,children,4,L. Frank Baum,---,---,1900,2019,PAN: Moyata Parva Prikazka,yes,no,0.72
+114,el,The Adventures of Pinocchio,Οι περιπέτειες του Πινόκιο,original,---,---,Carlo Collodi,Evridiki Amanatidou,novel,1883,2018,Ekdoseis Saita,yes,---,40.74
+115,el,The Adventures of Pinocchio,Πινόκιο,adapted,children,3,Carlo Collodi,---,---,1883,2015,Ekdoseis Tziampiris–Pyramida,yes,no,0.29
+116,el,Cinderella,Η Σταχτοπούτα,original,---,---,Brothers Grimm,---,fairy tale,1812,---,paidika-paramythia.gr,yes,---,3.06
+117,el,Cinderella,Η Σταχτοπούτα,adapted,children,3,Brothers Grimm,Rania Tziampiri,---,1812,2022,Ekdoseis Tziampiris–Pyramida,yes,yes,0.24
+118,el,Daedalus and Icarus,Δαίδαλος και Ίκαρος,original,---,---,Ovid,Andreas Papageorgiou; Georgios Papafotiou,myth,c.~8,1875,Anestis Konstantinidis,yes,---,1.29
+119,el,Daedalus and Icarus,Δαίδαλος και Ίκαρος,adapted,children,4,Ovid,Filippos Mandilaras,---,c.~8,2009,Ekdoseis Papadopoulos,yes,no,0.71
+120,el,Daedalus and Icarus,Δαίδαλος και Ίκαρος,adapted,children,6,Ovid,Vito Angelopoulou,---,c.~8,2000,Ekdoseis Ankyra,yes,yes,0.68
+121,el,The Good Samaritan,Ο καλός Σαμαρείτης,original,---,---,Gospel of Luke,---,parable,c.~80--90,1997,Hellenic Bible Society,yes,---,0.29
+122,el,The Good Samaritan,Ο καλός Σαμαρείτης,adapted,children,6,Gospel of Luke,Loti Petrovich-Androutsopoulou,---,c.~80--90,1991,Ekdoseis pataki,yes,no,0.53
+123,el,The Odyssey,Οδύσσεια,original,---,---,Homer,Nikos Kazantzakis; Ioannis Th. Kakridis,epic poem,c. 730 BC,2011,Vivliopoleion tis Estias,yes,---,117.50
+124,el,The Odyssey,Οδύσσεια,adapted,children,7,Homer,Sokratis Sarantidis,---,c. 730 BC,---,K.M. Ekdotiki,yes,no,5.30
+125,el,The Odyssey,Οι Περιπέτειες του Οδυσσέα,adapted,children,6,Homer,Vito Angelopoulou,---,c. 730 BC,2000,Ekdoseis Ankyra,yes,yes,4.00
+126,el,Peter Pan,Πίτερ Παν και Γουέντυ,original,---,---,J. M. Barrie,Regina Chatzchout,novel,1911,2015,Ekdoseis Pataki,yes,---,46.88
+127,el,Peter Pan,Πήτερ Παν,adapted,children,3,J. M. Barrie,Tatiana Galatoula,---,1911,1999,Modern Times,yes,yes,1.56
+128,el,Peter Pan,Πήτερ Παν,adapted,children,3,J. M. Barrie,---,---,1911,2015,Ekdoseis Tziampiris–Pyramida,yes,no,0.26
+129,el,The Prodigal Son,Ο άσωτος γιος,original,---,---,Gospel of Luke,---,parable,c.~80--90,1997,Hellenic Bible Society,yes,---,0.43
+130,el,The Prodigal Son,Ο άμυαλος γιος,adapted,children,6,Gospel of Luke,Loti Petrovich-Androutsopoulou,---,c.~80--90,1991,Ekdoseis pataki,yes,no,0.87
+131,el,Puss in Boots,Ο Παπουτσωμένος Γάτος,original,---,---,Charles Perrault,---,fairy tale,1697,---,paidika-paramythia.gr,yes,---,1.15
+132,el,Puss in Boots,Ο Παπουτσωμένος Γάτος,adapted,children,---,Charles Perrault,Eirini Marra,---,1697,1988,Ekdoseis Kedros,yes,yes,1.26
+133,el,The Rich Fool,Ο άφρων πλούσιος,original,---,---,Gospel of Luke,---,parable,c.~80--90,1997,Hellenic Bible Society,yes,---,0.18
+134,el,The Rich Fool,Ο άπληστος πλούσιος,adapted,children,6,Gospel of Luke,Loti Petrovich-Androutsopoulou,---,c.~80--90,1991,Ekdoseis pataki,yes,no,0.46
+135,el,Robinson Crusoe,Ροβινσόνας Κρούσος,original,---,---,Daniel Defoe,Giorgos Barouxis,novel,1719,2023,Ekdoseis Metaichmio,yes,---,111.91
+136,el,Robinson Crusoe,Ροβινσόνας Κρούσος,adapted,children,5,Daniel Defoe,Matina Karali,---,1719,2002,Ekdoseis Kedros,yes,no,2.38
+137,el,Snow White,Η Χιονάτη και οι επτά νάνοι,original,---,---,Brothers Grimm,---,fairy tale,1812,---,childstories.org,yes,---,2.25
+138,el,Snow White,Η Χιονάτη,adapted,children,3,Brothers Grimm,---,---,1812,2015,Ekdoseis Tziampiris–Pyramida,yes,no,0.28
+139,el,Tartuffe,Ο Ταρτούφος,original,---,---,Molière,Konstantinos Kokkinakis,play,1669,1815,Ioannis Vartholomaios Svikios,yes,---,18.20
+140,el,Tartuffe,Ο Ταρτούφος,adapted,children,9,Molière,Argyro Pipini,---,1664,2015,Ekdoseis Papadopoulos,yes,no,4.57
+141,el,The Tax Collector and the Pharisee,Ο τελώνης και ο φαρισαίος,original,---,---,Gospel of Luke,---,parable,c.~80--90,1997,Hellenic Bible Society,yes,---,0.15
+142,el,The Tax Collector and the Pharisee,Ο τελώνης και ο φαρισαίος,adapted,children,6,Gospel of Luke,Loti Petrovich-Androutsopoulou,---,c.~80--90,1991,Ekdoseis Pataki,yes,no,0.42
+143,el,Theseus and the Minotaur,Ο Θησέας και ο Μινώταυρος,original,---,---,Plutarch,Alexandros Rizos Rangkavis,myth,c.~105–115,1864,Typois Dionysiou Koromila,yes,---,1.44
+144,el,Theseus and the Minotaur,Ο Θησέας και ο Μινώταυρος,adapted,children,4,Plutarch,Vasiliki Nika,---,c.~105–115,2011,Ekdoseis Pataki,yes,yes,0.80
+145,el,Theseus and the Minotaur,Θησέας,adapted,children,3,Plutarch,Katerina Mouriki; Ioanna Kyritsi-Tzioti,---,c.~105–115,2016,Ekdoseis Diaplasi,yes,no,0.64
+146,el,Theseus and the Minotaur,Ο Θησέας και ο Μινώταυρος,adapted,children,6,Plutarch,Vito Angelopoulou,---,c.~105–115,2000,Ekdoseis Ankyra,yes,yes,0.57
+147,el,The Ugly Duckling,Το Ασχημόπαπο,original,---,---,Hans Christian Andersen,Ioannis A. Papadakis,fairy tale,1843,2020,eBooks4Greeks,yes,---,2.61
+148,el,The Ugly Duckling,Το Ασχημόπαπο,adapted,children,6,Hans Christian Andersen,Anta Tasopoulou,---,1843,2005,Ekdoseis Savvalas,yes,no,1.05
+149,el,The Ugly Duckling,Το Ασχημόπαπο,adapted,children,---,Hans Christian Andersen,Anna Kontoleon,---,1843,2002,Armadillo Books,yes,yes,0.94
+150,es,The Adventures of Pinocchio,Las aventuras de Pinocho,original,---,---,Carlo Collodi,Matías Godoy,novel,1883,2019,Biblioteca Fiesta del Libro y la Cultura de Medellín,yes,---,81.51
+151,es,The Adventures of Pinocchio,Las aventuras de Pinocho,original,---,---,Carlo Collodi,Freddy Ordóñez,novel,1883,2012,Libro al Viento,yes,---,39.81
+152,es,The Adventures of Pinocchio,Las aventuras de Pinocho,adapted,children,---,Carlo Collodi,Claude Morand,---,1883,---,Gaviota,yes,yes,0.46
+153,es,The Adventures of Pinocchio,Pinocho,adapted,children,5,Carlo Collodi,Roberto Piumini,---,1883,2011,Ediciones Laberinto,yes,yes,1.34
+154,es,The Adventures of Tom Sawyer,Las aventuras de Tom Sawyer,original,---,---,Mark Twain,J. Torroba,novel,1876,2003,Biblioteca Virtual Universal,yes,---,71.61
+155,es,The Adventures of Tom Sawyer,Las aventuras de Tom Sawyer,adapted,children,---,Mark Twain,B. Palacios,---,1876,2010,Dirección General de Bibliotecas,yes,no,16.16
+156,es,The Adventures of Tom Sawyer,Las aventuras de Tom Sawyer,adapted,children,---,Mark Twain,L. I. Barrena,---,1876,2007,Anaya: Clásicos a medida,yes,no,24.69
+157,es,The Adventures of Tom Sawyer,Las aventuras de Tom Sawyer,adapted,LD,---,Mark Twain,M. Àngels Rubio,---,1876,2016,Almadraba Editorial: Kalafate – Lectura fácil,yes,yes,6.50
+158,es,The Adventures of Tom Sawyer,Las aventuras de Tom Sawyer,adapted,LD,---,Mark Twain,M. Àngels Rubio,---,1876,2006,Almadraba Editorial: Kalafate – Lectura fácil,yes,yes,16.67
+159,es,Alice's Adventures in Wonderland,Alicia en el país de las maravillas,original,---,---,Lewis Carroll,---,novel,1865,2003,Ediciones del Sur,yes,---,27.34
+160,es,Alice's Adventures in Wonderland,Alicia en el país de las maravillas,original,---,---,Lewis Carroll,Luis Maristany,novel,1865,2003,Fondo de Cultura Económica,yes,---,24.84
+161,es,Alice's Adventures in Wonderland,Alicia en el país de las maravillas,original,---,---,Lewis Carroll,Fernando Díez de Miranda,novel,1865,2018,Zig-Zag,yes,---,26.81
+162,es,Alice's Adventures in Wonderland,Alicia en el país de las maravillas,adapted,children,---,Lewis Carroll,Nicolás Schuff,---,1865,2017,Editorial Santa Fe,yes,no,11.31
+163,es,A Christmas Carol,Canción de Navidad,original,---,---,Charles Dickens,---,novel,1843,2004,Ediciones del Sur,yes,---,28.98
+164,es,A Christmas Carol,Cuento de Navidad,original,---,---,Charles Dickens,Luis Barthe,novel,1843,1883,Imprenta y Litografía de la Biblioteca Universal,yes,---,29.19
+165,es,A Christmas Carol,Cuento de Navidad,original,---,---,Charles Dickens,---,novel,1843,---,Ediciones La Cueva,yes,---,27.85
+166,es,A Christmas Carol,Canción de Navidad,original,---,---,Charles Dickens,Santiago Rodríguez Santerbás,novel,1843,1986,Anaya,yes,---,6.83
+167,es,A Christmas Carol,Canción de Navidad,adapted,children,---,Charles Dickens,Gustavo Peñalosa Castro,---,1843,2002,Selector S.A. de C.V.,no,no,3.03
+168,es,Don Juan Tenorio,Don Juan Tenorio,original,---,---,José Zorrilla,---,play,1843,---,Freeditorial,no,---,23.33
+169,es,Don Juan Tenorio,Don Juan Tenorio,adapted,FL,C1,José Zorrilla,Margarita Barberá Quiles,---,1843,2014,Cideb,no,no,9.53
+170,es,Don Quixote,Don Quijote de la Mancha,original,---,---,Miguel de Cervantes,---,novel,1615,---,Project Gutenberg,no,---,376.61
+171,es,Don Quixote,Don Quijote de la Mancha,adapted,FL,A1,Miguel de Cervantes,Félix Terrones,---,1615,2017,Harrap's,no,no,1.33
+172,es,Don Quixote,Don Quijote de la Mancha,adapted,FL,B2,Miguel de Cervantes,Berta Pallares,---,1615,1972,Alinea: Easy Readers,no,no,30.21
+173,es,Don Quixote,El ingenioso hidalgo Don Quijote de la Mancha,adapted,FL,B2,Miguel de Cervantes,Denis Rieu,---,1615,1955,Librairie des Éditions Espagnoles,no,no,53.41
+174,es,Les Misérables,Los miserables,original,---,---,Victor Hugo,Nemesio Fernández Cuesta,novel,1862,2003,Austral,yes,---,146.63
+175,es,Les Misérables,Los miserables,adapted,children,12,Victor Hugo,Miquel Pujadó,---,1862,2006,Anaya: Clásicos a medida,yes,no,2.72
+176,es,The Little Gypsy Girl,La gitanilla,original,---,---,Miguel de Cervantes,---,short story,1613,---,Biblioteca Digital del ILCE,no,---,23.82
+177,es,The Little Gypsy Girl,La gitanilla,adapted,FL,A2,Miguel de Cervantes,Raquel García Prieto,---,1613,2012,ELI,no,no,7.35
+178,es,The Little Gypsy Girl,La gitanilla,adapted,FL,B1,Miguel de Cervantes,Margarita Barberá Quiles,---,1613,1999,Cideb: Leer y aprender,no,no,7.35
+179,es,Madame Bovary,Madame Bovary,original,---,---,Gustave Flaubert,Germán Palacios,novel,1857,1986,Cátedra,yes,---,115.28
+180,es,Madame Bovary,La señora Bovary,original,---,---,Gustave Flaubert,María Teresa Gallego Urrutia,novel,1857,2012,Alba Editorial,yes,---,120.77
+181,es,Madame Bovary,Madame Bovary,original,---,---,Gustave Flaubert,---,novel,1857,2010,Culturea,yes,---,112.42
+182,es,Madame Bovary,Madame Bovary,adapted,LD,---,Gustave Flaubert,C. S. Baudet,---,1857,2012,La Mar de Fácil,yes,no,15.69
+183,es,The Mark of Zorro,La marca del Zorro,original,---,---,Johnston McCulley,---,novel,1924,2019,Freeditorial,yes,---,63.80
+184,es,The Mark of Zorro,El Zorro,adapted,FL,A2,Johnston McCulley,Margarita Barberá Quiles,---,1924,1999,Cideb: Leer y aprender,yes,no,6.02
+185,es,Oliver Twist,Las aventuras de Oliver Twist,original,---,---,Charles Dickens,---,novel,1838,2003,Culturea,yes,---,166.57
+186,es,Oliver Twist,Oliver Twist,adapted,children,---,Charles Dickens,---,---,1838,2020,Guagua Luna,yes,no,16.43
+187,es,Oliver Twist,Oliver Twist,adapted,LD,---,Charles Dickens,Núria Martí Constans,---,1838,2016,Almadraba Editorial: Kalafate – Lectura fácil,yes,no,19.92
+188,es,Romeo and Juliet,Romeo y Julieta,original,---,---,William Shakespeare,---,play,1597,2003,Biblioteca Virtual Universal,yes,---,41.67
+189,es,Romeo and Juliet,Romeo y Julieta,original,---,---,William Shakespeare,Marcelino Menéndez Pelayo,play,1597,1881,Luis Navarro,yes,---,20.89
+190,es,Romeo and Juliet,La tragedia de Romeo y Julieta,original,---,---,William Shakespeare,Ángel-Luis Pujante,play,1597,---,Educ.ar,yes,---,22.00
+191,es,Romeo and Juliet,Romeo y Julieta,adapted,LD,---,William Shakespeare,Elena O'Callaghan i Duch,---,1597,2009,Almadraba Editorial: Kalafate – Lectura fácil,yes,yes,13.81
+192,fr,The Adventures of Pinocchio,Les Aventures de Pinocchio,original,---,---,Carlo Collodi,Claude Sartirano,novel,1883,2004,Ebooks libres et gratuits,yes,---,41.78
+193,fr,The Adventures of Pinocchio,Les Aventures de Pinocchio,original,---,---,Carlo Collodi,Danielle Revol Cunzi,novel,1883,---,Fondazione Nazionale Carlo Collodi,yes,---,48.37
+194,fr,The Adventures of Pinocchio,Pinocchio,adapted,children,7,Carlo Collodi,---,---,1883,2022,ContesDeFees.com,yes,no,1.43
+195,fr,The Adventures of Pinocchio,Pinocchio,adapted,theatre,---,Carlo Collodi,Mathias Constantin; Antoine Schneider,---,1883,2021,Opéra de Lausanne,yes,yes,8.47
+196,fr,The Adventures of Tom Sawyer,Les Aventures de Tom Sawyer,original,---,---,Mark Twain,Pierre‑François Caillé,novel,1876,1938,Hachette,yes,---,73.63
+197,fr,The Adventures of Tom Sawyer,Les Aventures de Tom Sawyer,original,---,---,Mark Twain,François de Gaïl,novel,1876,1996,Flammarion,yes,---,77.81
+198,fr,The Adventures of Tom Sawyer,Les Aventures de Tom Sawyer,adapted,children,7,Mark Twain,Anna Culleton,---,1876,2020,Larousse,yes,no,1.31
+199,fr,Alice's Adventures in Wonderland,Alice au pays des merveilles,original,---,---,Lewis Carroll,Henri Bué,novel,1865,1869,Macmillan and Co.,yes,---,33.35
+200,fr,Alice's Adventures in Wonderland,Les Aventures d'Alice au pays des merveilles,original,---,---,Lewis Carroll,Henri Parisot,novel,1865,1989,Kaléidoscope,yes,---,33.35
+201,fr,Alice's Adventures in Wonderland,Alice au pays des merveilles,adapted,children,3,Lewis Carroll,Priscilla Protet,---,1865,2012,Éditions Auzou,yes,no,2.19
+202,fr,Alice's Adventures in Wonderland,Alice au pays des merveilles,adapted,children,6,Lewis Carroll,Philippe Rouard,---,1865,1993,Hachette Jeunesse,yes,yes,13.41
+203,fr,Around the Moon,Autour de la Lune,original,---,---,Jules Verne,---,novel,1870,---,Pierre-Jules Hetzel,no,---,58.88
+204,fr,Around the Moon,Autour de la Lune,adapted,FL,A1,Jules Verne,Brigitte Faucard-Martinez,---,1870,2009,CLE International: Lectures CLE en français facile,no,no,7.81
+205,fr,Around the World in Eighty Days,Le Tour du monde en quatre-vingts jours,original,---,---,Jules Verne,---,novel,1873,---,Pierre-Jules Hetzel,no,---,71.57
+206,fr,Around the World in Eighty Days,Le Tour du monde en quatre-vingts jours,adapted,FL,B1,Jules Verne,Brigitte Faucard-Martinez,---,1873,2003,CLE International: Lectures CLE en français facile,no,no,8.85
+207,fr,The Beast Within,La Bête humaine,original,---,---,Émile Zola,---,novel,1890,---,G. Charpentier et Cie,no,---,135.84
+208,fr,The Beast Within,La Bête humaine,adapted,FL,B1,Émile Zola,Elyette Roussel,---,1890,1996,CLE International: Lectures CLE en français facile,no,no,8.56
+209,fr,A Christmas Carol,Cantique de Noël,original,---,---,Charles Dickens,Mlle de Saint-Romain; M. de Goy,novel,1843,1890,Librairie Hachette et Cie,yes,---,35.08
+210,fr,A Christmas Carol,Chant de Noël,original,---,---,Charles Dickens,---,novel,1843,2002,Pitbook.com,yes,---,33.97
+211,fr,A Christmas Carol,Un chant de Noël,adapted,children,4,Charles Dickens,Lucie Papineau,---,1843,2004,Éditions Héritage,yes,no,1.16
+212,fr,The Count of Monte Cristo,Le Comte de Monte-Cristo,original,---,---,Alexandre Dumas,---,novel,1846,---,Baudry and Pétion,no,---,502.75
+213,fr,The Count of Monte Cristo,Le Comte de Monte-Cristo,adapted,FL,A2,Alexandre Dumas,Brigitte Faucard-Martinez,---,1846,2016,CLE International: Lectures CLE en français facile,no,no,10.97
+214,fr,Cousin Bette,La Cousine Bette,original,---,---,Honoré de Balzac,---,novel,1847,---,Chlendowski-Pétion,no,---,154.37
+215,fr,Cousin Bette,La Cousine Bette,adapted,FL,B1,Honoré de Balzac,Brigitte Faucard-Martinez,---,1847,1997,CLE International: Lectures CLE en français facile,no,no,10.60
+216,fr,Don Quixote,L'Ingénieux Hidalgo Don Quichotte de la Manche,original,---,---,Miguel de Cervantes,Louis Viardot,novel,1615,1837,J.-J. Dubochet et Cie,yes,---,443.35
+217,fr,Don Quixote,Don Quichotte de la Manche,adapted,children,---,Miguel de Cervantes,---,---,1615,1882,Librairie Hachette et Cie,yes,no,110.15
+218,fr,Don Quixote,Dom Quixote de la Manche,adapted,theatre,---,Miguel de Cervantes,Guyon Guérin de Bouscal,---,1615,1639,"Toussaint Quinet, Paris",yes,no,16.82
+219,fr,Jacquou the Rebel,Jacquou le Croquant,original,---,---,Eugène Le Roy,---,novel,1900,---,Calmann-Lévy,no,---,111.41
+220,fr,Jacquou the Rebel,Jacquou le Croquant,adapted,FL,A1,Eugène Le Roy,Brigitte Faucard-Martinez,---,1900,2009,CLE International: Lectures CLE en français facile,no,no,9.38
+221,fr,"Lancelot, the Knight of the Cart",Le Chevalier de la charrette : Lancelot,original,---,---,Chrétien de Troyes,---,novel,c. 1180,---,Éditions eBooksFrance,no,---,96.85
+222,fr,"Lancelot, the Knight of the Cart",Lancelot,adapted,FL,A1,Chrétien de Troyes,Brigitte Faucard-Martinez,---,c. 1180,2009,CLE International: Lectures CLE en français facile,no,no,9.47
+223,fr,Les Misérables,Les Misérables,original,---,---,Victor Hugo,---,novel,1862,---,"A. Lacroix, Verboeckhoven & Cie",no,---,551.72
+224,fr,Les Misérables,Les Misérables,adapted,FL,A2,Victor Hugo,Brigitte Faucard-Martinez,---,1862,2016,CLE International: Lectures CLE en français facile,no,no,50.28
+225,fr,Les Misérables,Les Misérables,adapted,children,13,Victor Hugo,Camille Page,---,1862,2023,Belin Éducation,no,no,10.34
+226,fr,Les Misérables: Fantine,Les Misérables: Fantine,original,---,---,Victor Hugo,---,novel,1862,---,"A. Lacroix, Verboeckhoven & Cie",no,---,118.30
+227,fr,Les Misérables: Fantine,Les Misérables: Fantine,adapted,FL,A2,Victor Hugo,Pierre de Beaumont,---,1862,1995,Hachette: Lecture facile,no,no,18.21
+228,fr,The Little Match Girl,La Petite Fille aux allumettes,original,---,---,Hans Christian Andersen,Pierre-Georget La Chesnais,fairy tale,1845,1943,Mercure de France,yes,---,0.90
+229,fr,The Little Match Girl,La Petite Fille aux allumettes,adapted,FL,---,Hans Christian Andersen,Anne Le Grand,---,1845,2018,Parlez-vous French,yes,no,0.84
+230,fr,Madame Bovary,Madame Bovary,original,---,---,Gustave Flaubert,---,novel,1857,---,Michel Lévy frères,no,---,155.22
+231,fr,Madame Bovary,Madame Bovary,adapted,FL,B2,Gustave Flaubert,Brigitte Faucard-Martinez,---,1857,1997,CLE International: Lectures CLE en français facile,no,no,10.77
+232,fr,Maigret and the Dead Girl,Maigret et la jeune morte,original,---,---,Georges Simenon,---,novel,1954,---,Presses de la Cité,no,---,44.48
+233,fr,Maigret and the Dead Girl,Maigret et la jeune morte,adapted,FL,A1,Georges Simenon,Elyette Roussel,---,1954,2009,CLE International: Lectures CLE en français facile,no,no,7.46
+234,fr,A Man's Head,La Tête d'un homme,original,---,---,Georges Simenon,---,novel,1931,---,Arthème Fayard,no,---,38.30
+235,fr,A Man's Head,La Tête d'un homme,adapted,FL,B2,Georges Simenon,Charles Milou,---,1931,2016,Hachette: Lire en français facile,no,no,18.08
+236,fr,The Mystery of the Yellow Room,Le Mystère de la chambre jaune,original,---,---,Gaston Leroux,---,novel,1908,---,Pierre Lafitte et Cie,no,---,89.13
+237,fr,The Mystery of the Yellow Room,Le Mystère de la chambre jaune,adapted,FL,B1,Gaston Leroux,Brigitte Faucard-Martinez,---,1908,1998,CLE International: Lectures CLE en français facile,no,no,9.71
+238,fr,Nobody's Girl,En Famille,original,---,---,Hector Malot,---,novel,1893,---,Ernest Flammarion,no,---,106.07
+239,fr,Nobody's Girl,En Famille,adapted,FL,A1,Hector Malot,Brigitte Faucard-Martinez,---,1893,2007,CLE International: Lectures CLE en français facile,no,no,9.29
+240,fr,Oliver Twist,Oliver Twist,original,---,---,Charles Dickens,Alfred Gérardin,novel,1838,1893,Librairie Hachette et Cie,yes,---,84.70
+241,fr,Oliver Twist,Oliver Twist,adapted,general,---,Charles Dickens,Patricia Arrou-Vignod,---,1838,2022,Culturea,yes,no,120.60
+242,fr,Oliver Twist,Les Aventures d'Oliver Twist,adapted,children,10,Charles Dickens,Émile de La Bédollière,---,1838,2018,Gallimard Jeunesse,yes,no,3.96
+243,fr,The Romance of a Mummy,Le Roman de la momie,original,---,---,Théophile Gautier,---,novel,1858,---,Librairie Hachette et Cie,no,---,59.80
+244,fr,The Romance of a Mummy,Le Roman de la momie,adapted,FL,A1,Théophile Gautier,Brigitte Faucard-Martinez,---,1858,2009,CLE International: Lectures CLE en français facile,no,no,8.95
+245,fr,Romeo and Juliet,Roméo et Juliette,original,---,---,William Shakespeare,François‑Victor Hugo,play,1597,1868,Pagnerre,yes,---,30.15
+246,fr,Romeo and Juliet,Roméo et Juliette,adapted,general,---,William Shakespeare,M. d’Ouzicourt,---,1597,1771,Le Jay,yes,no,12.73
+247,fr,Romeo and Juliet,Roméo et Juliette,adapted,LD,---,William Shakespeare,Anne Hubert,---,1597,2023,Kiléma Éditions,yes,no,1.83
+248,fr,Twenty Thousand Leagues Under the Sea,Vingt mille lieues sous les mers,original,---,---,Jules Verne,---,novel,1870,---,Pierre-Jules Hetzel,no,---,149.41
+249,fr,Twenty Thousand Leagues Under the Sea,Vingt mille lieues sous les mers,adapted,FL,A1,Jules Verne,Brigitte Faucard-Martinez,---,1870,2017,CLE International/Anaya: Lectures CLE en français facile,no,no,9.34
+250,fr,The Ugly Duckling,Le Vilain Petit Canard,original,---,---,Hans Christian Andersen,Anne-Mathilde Paraf,fairy tale,1843,1983,Gautier-Languereau,yes,---,3.07
+251,fr,The Ugly Duckling,Le Vilain Petit Canard,original,---,---,Hans Christian Andersen,Pierre-Georget La Chesnais,fairy tale,1843,1937,Mercure de France,yes,---,3.72
+252,fr,The Ugly Duckling,Le Vilain Petit Canard,adapted,children,7,Hans Christian Andersen,---,---,1843,2021,Un an d'école,yes,no,1.06
+253,fr,The Ugly Duckling,Le Vilain Petit Canard,adapted,children,3,Hans Christian Andersen,---,---,1843,2021,Kids Bigben,yes,no,0.67
+254,fr,The Ugly Duckling,Le Vilain Petit Canard,adapted,children,---,Hans Christian Andersen,---,---,1843,2015,MondeDesPetits,yes,no,0.90
+255,fr,Wuthering Heights,Les Hauts de Hurle-Vent,original,---,---,Emily Brontë,Frédéric Delebecque,novel,1847,1925,Payot,yes,---,137.66
+256,fr,Wuthering Heights,Un amant,original,---,---,Emily Brontë,Théodore de Wyzewa,novel,1847,1892,Perrin,yes,---,115.77
+257,fr,Wuthering Heights,Les Hauts de Hurle-Vent,adapted,FL,B2,Emily Brontë,Hélène Nguyen,---,1847,2018,CLE International: Lectures CLE en français facile,yes,no,12.20
+258,it,The Adventures of Pinocchio,Le avventure di Pinocchio,original,---,---,Carlo Collodi,---,novel,1883,---,R. Bemporad & Figlio,no,---,41.58
+259,it,The Adventures of Pinocchio,Pinocchio,adapted,children,3,Carlo Collodi,---,---,1883,2019,Edibimbi: C'era una volta,no,no,1.80
+260,it,The Adventures of Pinocchio,Le avventure di Pinocchio,adapted,FL,A1,Carlo Collodi,Francesca Colombo,---,1883,2020,Easy Readers LLP,no,no,1.66
+261,it,The Adventures of Tom Sawyer,Le avventure di Tom Sawyer,original,---,---,Mark Twain,Bruno Oddera,novel,1876,1987,Arnoldo Mondadori Editore,yes,---,75.84
+262,it,The Adventures of Tom Sawyer,Le avventure di Tom Sawyer,original,\---,\---,Mark Twain,\---,novel,1876,\---,Edizione Acrobat / Bibliomania,yes,\---,73.01
+263,it,The Adventures of Tom Sawyer,Le avventure di Tom Sawyer,adapted,children,6,Mark Twain,Rosalba Troiano,---,1876,2023,Giunti Editore: I miei primi classici,yes,no,6.06
+264,it,Alice's Adventures in Wonderland,Le avventure d'Alice nel paese delle meraviglie,original,---,---,Lewis Carroll,Teodorico Pietrocòla-Rossetti,novel,1865,1872,Ermanno Loescher,yes,---,48.40
+265,it,Alice's Adventures in Wonderland,Le avventure d'Alice nel paese delle meraviglie,original,---,---,Lewis Carroll,Beatrice Masini,novel,1865,2021,Il Castoro,yes,---,26.06
+266,it,Alice's Adventures in Wonderland,Alice nel paese delle meraviglie,original,---,---,Lewis Carroll,Luigina Battistutta,novel,1865,1999,Nord-Sud,yes,---,25.32
+267,it,Alice's Adventures in Wonderland,Le avventure d'Alice nel paese delle meraviglie,adapted,children,3,Lewis Carroll,---,---,1865,2014,Edibimbi: C'era una volta,yes,no,1.97
+268,it,Alice's Adventures in Wonderland,Le avventure d'Alice nel paese delle meraviglie,adapted,children,7,Lewis Carroll,Sarah Rossi,---,1865,2014,Edizioni EL: Classicini,yes,no,7.86
+269,it,The Canterbury Tales,Dalle novelle di Canterbury,original,---,---,Geoffrey Chaucer,Cino Chiarini,collection of tales,1477,1897,Ditta Nicola Zanichelli,yes,---,50.51
+270,it,The Canterbury Tales,Dalle novelle di Canterbury,adapted,FL,B2,Geoffrey Chaucer,Michela Guida,---,1477,2022,Easy Readers LLP,yes,no,4.63
+271,it,A Christmas Carol,Canto di Natale,original,---,---,Charles Dickens,Alessia Calvanese,novel,1843,2014,Sacrosanteletture.it,yes,---,28.66
+272,it,A Christmas Carol,Cantico di Natale,original,---,---,Charles Dickens,Federigo Verdinois,novel,1843,1888,Ulrico Hoepli,yes,---,26.96
+273,it,A Christmas Carol,Un canto di Natale,adapted,theatre,---,Charles Dickens,Giulio C. Carlotto Farnese,---,1843,2012,GiulioFarnese.it,yes,no,8.11
+274,it,The Divine Comedy,La Divina Commedia,original,---,---,Dante Alighieri,---,epic poem,1472,---,Johann Neumeister/Evangelista Angelini da Trevi,no,---,101.91
+275,it,The Divine Comedy,La Divina Commedia,adapted,children,7,Dante Alighieri,Gisella Laterza,---,1472,2022,Edizioni EL: Classicini,no,no,8.34
+276,it,The Divine Comedy,La Divina Commedia,adapted,children,8,Dante Alighieri,Daniele Aristarco,---,1472,2024,Einaudi Ragazzi: In poche parole,no,no,8.34
+277,it,Don Quixote,Don Chisciotte della Mancia,original,---,---,Miguel de Cervantes,Alfredo Giannini,novel,1615,1927,G. C. Sansoni,yes,---,435.64
+278,it,Don Quixote,Don Chisciotte della Mancia,original,---,---,Miguel de Cervantes,Bartolomeo Gamba,novel,1615,1819,Tipografia di Alvisopoli,yes,---,368.59
+279,it,Don Quixote,Don Chisciotte della Mancia,adapted,children,8,Miguel de Cervantes,Silvia Cavenaghi,---,1615,2009,Il Castoro,yes,yes,73.70
+280,it,Don Quixote,Don Chisciotte della Mancia,adapted,FL,B2,Miguel de Cervantes,Michela Guida,---,1615,2022,Easy Readers LLP,yes,no,3.61
+281,it,Don Quixote,L'avventura di Don Chisciotte e Sancio Panza,adapted,theatre,---,Miguel de Cervantes,Silvia Cavenaghi,---,1615,2016,Copioni – Corriere Spettacolo,yes,no,4.67
+282,it,The Iliad,Iliade,original,---,---,Homer,Vincenzo Monti,epic poem,c. 750 BC,1811,Nicolò Bettoni,yes,---,135.99
+283,it,The Iliad,Iliade,adapted,FL,B1,Homer,Francesca Colombo,---,c. 750 BC,2023,Easy Readers LLP,yes,no,2.32
+284,it,The Metamorphosis,La metamorfosi,original,---,---,Franz Kafka,---,short story,1915,---,BooksandBooks.net,yes,---,16.91
+285,it,The Metamorphosis,La metamorfosi,adapted,FL,B2,Franz Kafka,Michela Guida,---,1915,2022,Easy Readers LLP,yes,no,2.95
+286,it,Moby Dick,Moby Dick,original,---,---,Herman Melville,Cesare Pavese,novel,1851,1932,Frassinelli,yes,---,211.75
+287,it,Moby Dick,Moby Dick,adapted,children,7,Herman Melville,Davide Morosinotto,---,1851,2013,Edizioni EL: Classicini,yes,no,7.73
+288,it,The Odyssey,Odissea,original,---,---,Homer,Ippolito Pindemonte,epic poem,c. 730 BC,1822,Società Tipografica Editrice,yes,---,104.43
+289,it,The Odyssey,Odissea,adapted,FL,B2,Homer,Francesca Colombo,---,c. 730 BC,2024,Easy Readers LLP,yes,no,2.92
+290,it,Oliver Twist,"Oliviero Twist, ovvero Il progresso di un fanciullo di parrocchia",original,---,---,Charles Dickens,Giambattista Baseggio,novel,1838,1840,Tipografia e Libreria Pirotta e C.,yes,---,148.00
+291,it,Oliver Twist,Oliver Twist,adapted,children,12,Charles Dickens,---,---,1838,2007,Bompiani–RCS Libri,yes,no,8.26
+292,it,Oliver Twist,Oliver Twist,adapted,children,6,Charles Dickens,Sara Lurago,---,1838,2021,Edibimbi: Primi classici,yes,yes,1.54
+293,it,Romeo and Juliet,Romeo e Giulietta,original,---,---,William Shakespeare,---,play,1597,1943,TheVirtualLibrary.org,yes,---,26.85
+294,it,Romeo and Juliet,Romeo e Giulietta,original,---,---,William Shakespeare,Goffredo Raponi,play,1597,2018,Liber Liber,yes,---,30.82
+295,it,Romeo and Juliet,Romeo e Giulietta,original,---,---,William Shakespeare,---,play,1597,2018,Oretti.it,yes,---,29.57
+296,it,Romeo and Juliet,Romeo e Giulietta,adapted,children,7,William Shakespeare,Roberto Piumini,---,1597,2015,Edizioni EL: Classicini,yes,no,7.83
+297,it,Romeo and Juliet,Romeo e Giulietta,adapted,FL,---,William Shakespeare,---,---,1597,2018,Palkettostage,yes,yes,19.66
+298,ja,The Adventures of Tom Sawyer,トム＝ソーヤーの冒険,original,---,---,Mark Twain,Kinetarō Yoshida,novel,1876,1975,Kaiseisha: Kaiseisha Bunko,yes,---,112.05
+299,ja,The Adventures of Tom Sawyer,トム＝ソーヤーの冒険,adapted,children,---,Mark Twain,Yoshihide Iijima,---,1876,2016,Kōdansha,yes,no,53.45
+300,ja,Alice's Adventures in Wonderland,不思議の国のアリス,original,---,---,Lewis Carroll,Hiroo Yamagata,novel,1865,1999,Project Sugita Genpaku,yes,---,38.83
+301,ja,Alice's Adventures in Wonderland,不思議の国のアリス,adapted,children,10,Lewis Carroll,Yoshiko Nishida,---,1865,2015,Poplar-sha,yes,no,33.97
+302,ja,Alice's Adventures in Wonderland,ふしぎの国のアリス,adapted,children,8,Lewis Carroll,Shōichirō Kawai,---,1865,2010,Kadokawa Shoten,yes,no,38.87
+303,ja,The Ant and the Grasshopper,アリとキリギリス,original,---,---,Aesop,Hanama Takashi,fable,c. 600 BC,---,aesopus.web.fc2.com,yes,---,0.13
+304,ja,The Ant and the Grasshopper,アリとキリギリス,adapted,children,---,Aesop,---,---,c. 600 BC,2011,Fusion Marketing,yes,no,0.44
+305,ja,The Ant and the Grasshopper,アリとキリギリス,adapted,children,---,Aesop,Chīsana Honyakuya-san,---,c. 600 BC,---,Hukumusume Dōwashū,yes,no,0.45
+306,ja,The Ant and the Grasshopper,アリとキリギリス,adapted,FL,A1,Aesop,---,---,c. 600 BC,2014,NPO Tagengo Tadoku,yes,no,0.28
+307,ja,A Christmas Carol,クリスマス・キャロル,original,---,---,Charles Dickens,Katokt,novel,1843,2003,Project Sugita Genpaku,yes,---,40.72
+308,ja,A Christmas Carol,クリスマス・キャロル,adapted,FL,B1,Charles Dickens,Makiko Awano,---,1843,2016,Taishukan Shoten,yes,no,4.93
+309,ja,Cinderella,アッシェンプッテル,original,---,---,Brothers Grimm,Okubo Yu,fairy tale,1812,2002,Aozora Bunko,yes,---,3.96
+310,ja,Cinderella,シンデレラ,adapted,FL,A2,Brothers Grimm,---,---,1812,2016,Taishukan Shoten,yes,no,1.60
+311,ja,The Fox and the Crow,カラスとキツネとのこと,original,---,---,Aesop,---,fable,c. 600 BC,1659,Itō Sanemon,yes,---,0.21
+312,ja,The Fox and the Crow,キツネとカラス,adapted,FL,A1,Aesop,---,---,c. 600 BC,2017,Taishukan Shoten,yes,no,0.08
+313,ja,Hansel and Gretel,ヘンゼルとグレーテル,original,---,---,Brothers Grimm,Masao Kusuyama,fairy tale,1812,1949,Komine Shoten,yes,---,4.76
+314,ja,Hansel and Gretel,ヘンゼルとグレーテル,original,---,---,Brothers Grimm,Genkuro Yazaki,fairy tale,1812,1980,Kaiseisha: Kaiseisha Bunko,yes,---,4.75
+315,ja,Hansel and Gretel,ヘンゼルとグレーテル,adapted,FL,A2,Brothers Grimm,---,---,1812,2016,Taishukan Shoten,yes,no,1.37
+316,ja,Jack and the Beanstalk,ジャックと豆の木,original,---,---,---,Masao Kusuyama,fairy tale,1807,1950,Komine Shoten,yes,---,4.09
+317,ja,Jack and the Beanstalk,ジャックと豆の木,adapted,FL,A2,---,---,---,1807,2016,Taishukan Shoten,yes,no,1.65
+318,ja,Les Misérables,レ・ミゼラブル,original,---,---,Victor Hugo,Yoshio Toyoshima,novel,1862,1987,Iwanami Shoten: Iwanami Bunko,yes,---,805.40
+319,ja,Les Misérables,レ・ミゼラブル,adapted,children,8,Victor Hugo,Ryōichi Tsukahara,---,1862,2012,Kōdansha,yes,no,51.55
+320,ja,Les Misérables,レ・ミゼラブル,adapted,children,10,Victor Hugo,Kō Iwase; Takashi Ōno,---,1862,1993,: Kaiseisha: Kaiseisha Bunko,yes,no,174.15
+321,ja,The Ugly Duckling,醜い家鴨の子,original,---,---,Hans Christian Andersen,Kan Kikuchi,fairy tale,1843,1928,Kōbunsha/Bungei Shunjūsha,yes,---,8.11
+322,ja,The Ugly Duckling,みにくいアヒルの子,adapted,FL,A1,Hans Christian Andersen,Emiko Miyagi,---,1843,2017,Taishukan Shoten,yes,no,0.73
+323,ja,The Wonderful Wizard of Oz,オズの魔法使い,original,---,---,L. Frank Baum,Masayo Takeda; Hiroo Yamagata,novel,1900,2006,Project Sugita Genpaku,yes,---,49.48
+324,ja,The Wonderful Wizard of Oz,オズの魔法使い,adapted,children,8,L. Frank Baum,Chieko Nakagawa; Mika Takahashi,---,1900,2016,Shinsei Publishing,yes,no,21.41
+325,ru,The Adventures of Tom Sawyer,Приключения Тома Сойера,original,---,---,Mark Twain,Korney Ivanovich Chukovsky,novel,1876,1935,Kaliningradskoe knizhnoe izdatelstvo,yes,---,158.44
+326,ru,The Adventures of Tom Sawyer,Приключения Тома Сойера,original,---,---,Mark Twain,Nina Leonidovna Daruzes,novel,1876,1948,Vita Nova,yes,---,60.53
+327,ru,The Adventures of Tom Sawyer,Приключения Тома Сойера,adapted,children,6,Mark Twain,Igor Olegovich Rodin,---,1876,2014,Direct-Media,yes,no,34.18
+328,ru,Alice's Adventures in Wonderland,Приключения Алисы в Стране чудес,original,---,---,Lewis Carroll,Nina Mikhailovna Demurova,novel,1865,1978,Nauka,yes,---,27.40
+329,ru,Alice's Adventures in Wonderland,Приключения Алисы в Стране чудес,original,---,---,Lewis Carroll,Yury Leonidovich Nesterenko,novel,1865,2018,Evertype,yes,---,21.59
+330,ru,Alice's Adventures in Wonderland,Алиса в Стране чудес,original,---,---,Lewis Carroll,A. N. Rozhdestvenskaya,novel,1865,1912,Eksmo,yes,---,4.94
+331,ru,Alice's Adventures in Wonderland,Приключения Алисы в Стране чудес,adapted,children,12,Lewis Carroll,Leonid Lvovich Yakhnin,---,1865,1999,Eksmo,yes,no,19.50
+332,ru,Anna Karenina,Анна Каренина,original,---,---,Leo Tolstoy,---,novel,1878,---,T. Ris Printing House,no,---,271.25
+333,ru,Anna Karenina,Анна Каренина,adapted,FL,B1,Leo Tolstoy,Anastasia Chulkova,---,1878,2016,Sistema Kalinka,no,no,9.01
+334,ru,Anna Karenina,Анна Каренина,adapted,FL,B1,Leo Tolstoy,Z. N. Potapurchenko,---,1878,2024,KLASS!noe chtenie,no,no,7.89
+335,ru,Bela,Бэла,original,---,---,Mikhail Yuryevich Lermontov,---,short story,1839,---,Otechestvennye zapiski,no,---,10.67
+336,ru,Bela,Бэла,adapted,FL,B1,Mikhail Yuryevich Lermontov,Frances Marshak-Sobotka,---,1839,1947,D. C. Heath and Company,no,no,9.67
+337,ru,Biryuk / The Forest Warden,Бирюк,original,---,---,Ivan Sergeyevich Turgenev,---,short story,1848,---,Sovremennik,no,---,2.11
+338,ru,Biryuk / The Forest Warden,Бирюк,adapted,FL,B2,Ivan Sergeyevich Turgenev,Reason Alva Goodwin; George V. Bobrinskoy,---,1848,1950,D. C. Heath and Company,no,no,2.31
+339,ru,A Christmas Carol,Рождественская песня в прозе,original,---,---,Charles Dickens,---,novel,1843,---,I. D. Sytin and Co.,yes,---,23.45
+340,ru,A Christmas Carol,Рождественская песнь,adapted,children,--,Charles Dickens,Maria O. Torchinskaya,---,1843,2018,Mahaon,yes,yes,28.97
+341,ru,Crime and Punishment,Преступление и наказание,original,---,---,Fyodor Mikhailovich Dostoevsky,---,novel,1866,---,Russkiy Vestnik,no,---,181.40
+342,ru,Crime and Punishment,Преступление и наказание,adapted,FL,B2,Fyodor Mikhailovich Dostoevsky,Z. N. Potapurchenko,---,1843,2025,KLASS!noe chtenie,no,no,14.93
+343,ru,Don Quixote,Дон Кихот,original,---,---,Miguel de Cervantes,Boris Apollonovich Krzhevsky; Aleksandr Aleksandrovich Smirnov,novel,1615,2003,Nauka,yes,---,162.08
+344,ru,Don Quixote,Дон Кихот,adapted,children,11,Miguel de Cervantes,Boris Mikhailovich Engelhardt,---,1615,1938,Detizdat,yes,no,160.98
+345,ru,Kashtanka,Каштанка,original,---,---,Anton Pavlovich Chekhov,---,short story,1884,---,Nauka,no,---,5.94
+346,ru,Kashtanka,Каштанка,adapted,FL,C1,Anton Pavlovich Chekhov,Anastasia Chulkova,---,1884,2018,Sistema Kalinka,no,no,5.52
+347,ru,Knock! Knock! Knock!,Стучит!,original,---,---,Ivan Sergeyevich Turgenev,---,short story,1874,---,Brothers Salaev,no,---,3.81
+348,ru,Knock! Knock! Knock!,Стучит!,adapted,FL,B2,Ivan Sergeyevich Turgenev,Reason Alva Goodwin; George V. Bobrinskoy,---,1874,1950,D. C. Heath and Company,no,no,3.99
+349,ru,Madame Bovary,Госпожа Бовари,original,---,---,Gustave Flaubert,A. N. Chebotarevskaya,novel,1857,2012,Klub semeinogo dosuga,yes,---,93.01
+350,ru,Madame Bovary,Госпожа Бовари,original,---,---,Gustave Flaubert,Nikolai Mikhailovich Lyubimov,novel,1857,---,100bestbooks.ru,yes,---,89.20
+351,ru,Madame Bovary,Госпожа Бовари,adapted,children,15,Gustave Flaubert,V. A. Sagalova,---,1857,1996,Olimp,yes,no,1.80
+352,ru,The Nose,Нос,original,---,---,Nikolai Vasilyevich Gogol,---,short story,1836,---,Sovremennik,no,---,7.73
+353,ru,The Nose,Нос,adapted,FL,B1,Nikolai Vasilyevich Gogol,N. A. Eremina,---,1836,2014,KLASS!noe chtenie,no,no,5.71
+354,ru,Oliver Twist,Приключения Оливера Твиста,original,---,---,Charles Dickens,Aleksandra Vladimirovna Krivtsova,novel,1838,2023,Eksmo,yes,---,129.88
+355,ru,Oliver Twist,Приключения Оливера Твиста,adapted,children,11,Charles Dickens,Igor Olegovich Rodin,---,1838,2015,Direct-Media,yes,no,11.11
+356,ru,Oysters,Устрицы,original,---,---,Anton Pavlovich Chekhov,---,short story,1887,---,Nauka,no,---,1.13
+357,ru,Oysters,Устрицы,adapted,FL,C1,Anton Pavlovich Chekhov,Anastasia Chulkova,---,1887,2018,Sistema Kalinka,no,no,1.30
+358,ru,The Portrait,Портрет,original,---,---,Nikolai Vasilyevich Gogol,---,short story,1842,---,Sovremennik,no,---,17.25
+359,ru,The Portrait,Портрет,adapted,FL,B2,Nikolai Vasilyevich Gogol,N. A. Eremina,---,1842,2015,KLASS!noe chtenie,no,no,7.61
+360,ru,The Provincial Lady,Провинциалка,original,---,---,Ivan Sergeyevich Turgenev,---,play,1851,---,Otechestvennye zapiski,no,---,10.11
+361,ru,The Provincial Lady,Провинциалка,adapted,FL,C1,Ivan Sergeyevich Turgenev,Reason Alva Goodwin; George V. Bobrinskoy,---,1851,1950,D. C. Heath and Company,no,no,10.71
+362,ru,Revenge,Месть,original,---,---,Anton Pavlovich Chekhov,---,short story,1882,---,Nauka,no,---,1.11
+363,ru,Revenge,Месть,adapted,FL,C1,Anton Pavlovich Chekhov,Anastasia Chulkova,---,1882,2018,Sistema Kalinka,no,no,1.30
+364,ru,Romeo and Juliet,Ромео и Джульетта,original,---,---,William Shakespeare,Dmitry Lavrentyevich Mikhalovsky,play,1597,1888,Kristal,yes,---,23.36
+365,ru,Romeo and Juliet,Ромео и Джульетта,original,---,---,William Shakespeare,Boris Leonidovich Pasternak,play,1597,1943,Agentstvo FTM,yes,---,18.20
+366,ru,Romeo and Juliet,Ромео и Джульетта,adapted,theatre,---,William Shakespeare,(transl.from Jules Barbier; Michel Carré),---,1597,1867,---,yes,yes,5.30
+367,ru,The Shot,Выстрел,original,---,---,Aleksandr Sergeyevich Pushkin,---,short story,1831,---,Pluchart,no,---,3.69
+368,ru,The Shot,Выстрел,adapted,FL,A2,Aleksandr Sergeyevich Pushkin,Fruma Gottschalk,---,1831,1946,D. C. Heath and Company,no,no,3.82
+369,ru,The Stationmaster,Станционный смотритель,original,---,---,Aleksandr Sergeyevich Pushkin,---,short story,1831,---,Pluchart,no,---,3.45
+370,ru,The Stationmaster,Станционный смотритель,adapted,FL,A2,Aleksandr Sergeyevich Pushkin,Fruma Gottschalk,---,1831,1946,D. C. Heath and Company,no,no,4.36
+371,ru,Taman,Тамань,original,---,---,Mikhail Yuryevich Lermontov,---,short story,1840,---,Otechestvennye zapiski,no,---,3.39
+372,ru,Taman,Тамань,adapted,FL,A1,Mikhail Yuryevich Lermontov,Frances Marshak-Sobotka,---,1840,1945,D. C. Heath and Company,no,no,5.40
+373,ru,Taras Bulba,Тарас Бульба,original,---,---,Nikolai Vasilyevich Gogol,---,short story,1835,---,Department of Foreign Trade,no,---,36.82
+374,ru,Taras Bulba,Тарас Бульба,adapted,FL,B1,Nikolai Vasilyevich Gogol,Anastasia Chulkova,---,1835,2016,Sistema Kalinka,no,no,8.07
+375,ru,Yermolai and the Miller's Wife,Ермолай и мельничиха,original,---,---,Ivan Sergeyevich Turgenev,---,short story,1847,---,Sovremennik,no,---,3.23
+376,ru,Yermolai and the Miller's Wife,Ермолай и мельничиха,adapted,FL,B2,Ivan Sergeyevich Turgenev,Reason Alva Goodwin; George V. Bobrinskoy,---,1847,1950,D. C. Heath and Company,no,no,1.43
