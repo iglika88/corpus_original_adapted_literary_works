@@ -13,7 +13,7 @@ This repository is associated with the article:
 - [`corpus_metadata.csv`](corpus_metadata.csv) — Canonical machine-readable version of the corpus metadata.
 - [`corpus_metadata.xlsx`](corpus_metadata.xlsx) — Convenient version of the corpus metadata for human browsing.
 - [`metadata_dictionary.md`](metadata_dictionary.md) — Definitions of the columns used in the metadata and, where relevant, their predefined values.
-- [`preprocess.py`](preprocess.py) — Code for preprocessing the associated texts, including the correction of OCR-related errors, management of spacing and punctuation, and removal of metatextual information.
+- [`preprocess.py`](preprocess.py) — Code for preprocessing the associated texts. Includes whitespace and punctuation normalisation, targeted OCR corrections, and optional removal of metatextual material. Preserves play and verse structure and supports before/after review reports.
 - [`alignment.py`](alignment.py) — Code for the alignment of excerpts of paired full and adapted texts.
 - [`012_alicewonderland_en_org.xml`](012_alicewonderland_en_org.xml) — TEI-compatible XML example containing the complete text of Alice’s Adventures in Wonderland together with all corresponding corpus metadata.
   
